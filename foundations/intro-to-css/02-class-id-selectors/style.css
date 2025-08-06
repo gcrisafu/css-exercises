@@ -1,7 +1,7 @@
  .parent
  {
     background-color: #FFC0CB;
-    font: "verdana" "DejaVu Sans", alt="sans-serif";
+    font-family: "verdana" "DejaVu Sans", alt="sans-serif";
     
  }
  .child
@@ -21,6 +21,5 @@
  #four
  {
     background-color: #90EE90;
-    font: "verdana" "DejaVu Sans", alt="sans-serif";
     font-size: 24px;
  }
